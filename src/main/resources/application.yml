@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: Dynamic-PDF-Generation
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: <database Name>
+      auto-index-creation: true
